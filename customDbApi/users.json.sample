@@ -1,0 +1,20 @@
+[
+    {"user_id":"1",
+    "email":"user1@email.com",
+    "password":"Password1",
+    "app_metadata": {
+        "property":"value"
+    }},
+    {"user_id":"2",
+    "email":"user2@email.com",
+    "password":"Password2",
+    "app_metadata": {
+        "property":"value"
+    }},
+    {"user_id":"3",
+    "email":"user3@email.com",
+    "password":"Password3",
+    "app_metadata": {
+        "property":"value"
+    }}
+]
